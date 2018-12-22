@@ -5,3 +5,4 @@ git tracks changes of files;
 my stupid boss still prefers SVN.
 abandon the ~ file 
 the third modification
+the fourth modify
