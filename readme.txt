@@ -8,4 +8,5 @@ the third modification
 the fourth modify
 the fifth mod
 i creat a new branch.
-creating a new branch is FAST AND SIMPLE.
+creating a new branch is fast and simple.
+
